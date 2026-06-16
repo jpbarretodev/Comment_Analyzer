@@ -1,0 +1,17 @@
+# bibliotecas
+1 - google_play_scraper
+2 - pandas
+3 - nltk
+4 - collections
+5 - tqdm -> para barra de progresso (questão estética mesmo)
+
+#Id's dos apps
+1 - WhatsApp => com.whatsapp 
+2 - Instagram => com.instagram.android
+3 - iFood => br.com.ifood 
+4 - Spotify => com.spotify.music
+5 - Gov.br => br.gov.dataprev.meugovbr
+
+# configuração de acesso da api
+1 - lang = "pt"
+2 - country = "br"
